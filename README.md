@@ -51,4 +51,15 @@ XYZ Events, a renowned event management company, aims to create an EMS that enha
 ## Conclusion
 The XYZ Events Web Application aims to set new standards in event coordination by providing a robust, user-friendly platform for managing events. This project not only enhances the event management capabilities of XYZ Events but also offers valuable learning experiences in software design, development methodologies, and project implementation for students.
 
+## Technologies
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHPMYADMIN](https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Apache Server](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 For more details, please refer to the comprehensive documentation and project files included in this repository.
