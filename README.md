@@ -9,9 +9,10 @@ The XYZ Events Web Application is an innovative Event Management System (EMS) de
 ![image](https://github.com/user-attachments/assets/5cc77734-3381-49c8-a7c6-a877702d2296)
 ![image](https://github.com/user-attachments/assets/f479374e-c838-417b-97f0-ad05db809d60)
 ![image](https://github.com/user-attachments/assets/a2de8d4f-d434-446c-acfe-975fc66070a5)
-
-
-
+![image](https://github.com/user-attachments/assets/1e4fb83c-8de7-4159-a2c7-23ab65a4345b)
+![image](https://github.com/user-attachments/assets/ce41f16e-ae42-482b-8e0c-f444bdf33465)
+![image](https://github.com/user-attachments/assets/cab10086-d822-4e67-911c-22255f04586c)
+![image](https://github.com/user-attachments/assets/cd49f560-3aed-4102-884a-e8c2a20b98f4)
 
 
 ## Project Idea
