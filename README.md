@@ -3,6 +3,17 @@
 ## Overview
 The XYZ Events Web Application is an innovative Event Management System (EMS) designed to streamline the organization of events by leveraging advanced technology and best practices. Developed as part of the Applications Development, this project aims to address the challenges faced by event management companies such as resource allocation, team communication, data analysis, attendee engagement, and regulatory compliance.
 
+![image](https://github.com/user-attachments/assets/bd2a91ba-1ac2-441f-bc01-50ac5df5a3ec)
+![image](https://github.com/user-attachments/assets/1ea3f5a4-1a80-4d32-9112-2eb8a8c28bdb)
+![image](https://github.com/user-attachments/assets/647b4e79-fb8f-431b-af82-200193ddd296)
+![image](https://github.com/user-attachments/assets/5cc77734-3381-49c8-a7c6-a877702d2296)
+![image](https://github.com/user-attachments/assets/f479374e-c838-417b-97f0-ad05db809d60)
+![image](https://github.com/user-attachments/assets/a2de8d4f-d434-446c-acfe-975fc66070a5)
+
+
+
+
+
 ## Project Idea
 
 ### Objective
